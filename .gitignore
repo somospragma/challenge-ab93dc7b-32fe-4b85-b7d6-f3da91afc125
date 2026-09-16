@@ -1,0 +1,16 @@
+# Maven
+target/
+
+# IDE / editores
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# Kiro / config local del asistente
+.kiro/
+
+# Sistema
+*.log
